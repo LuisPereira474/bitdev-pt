@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bitdev-pt/static/css/main.ea3115da.chunk.css",
-    "main.js": "/bitdev-pt/static/js/main.6edf66a4.chunk.js",
-    "main.js.map": "/bitdev-pt/static/js/main.6edf66a4.chunk.js.map",
+    "main.js": "/bitdev-pt/static/js/main.09d91aff.chunk.js",
+    "main.js.map": "/bitdev-pt/static/js/main.09d91aff.chunk.js.map",
     "runtime-main.js": "/bitdev-pt/static/js/runtime-main.f9a34748.js",
     "runtime-main.js.map": "/bitdev-pt/static/js/runtime-main.f9a34748.js.map",
     "static/js/2.575f9361.chunk.js": "/bitdev-pt/static/js/2.575f9361.chunk.js",
     "static/js/2.575f9361.chunk.js.map": "/bitdev-pt/static/js/2.575f9361.chunk.js.map",
     "index.html": "/bitdev-pt/index.html",
-    "precache-manifest.9d1af33a88d64782e2b7a42521d37337.js": "/bitdev-pt/precache-manifest.9d1af33a88d64782e2b7a42521d37337.js",
+    "precache-manifest.1941f2aac72e4b25eb7ebd554455150f.js": "/bitdev-pt/precache-manifest.1941f2aac72e4b25eb7ebd554455150f.js",
     "service-worker.js": "/bitdev-pt/service-worker.js",
     "static/css/main.ea3115da.chunk.css.map": "/bitdev-pt/static/css/main.ea3115da.chunk.css.map",
     "static/js/2.575f9361.chunk.js.LICENSE.txt": "/bitdev-pt/static/js/2.575f9361.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.f9a34748.js",
     "static/js/2.575f9361.chunk.js",
     "static/css/main.ea3115da.chunk.css",
-    "static/js/main.6edf66a4.chunk.js"
+    "static/js/main.09d91aff.chunk.js"
   ]
 }
