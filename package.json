@@ -2,7 +2,7 @@
   "name": "bitdev-pt",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://helderpgoncalves.github.io/bitdev-pt",
+  "homepage": "www.bitdev.pt",
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
