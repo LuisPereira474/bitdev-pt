@@ -1,9 +1,8 @@
 {
   "name": "bitdev-pt",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://helderpgoncalves.github.io/",
-  "name": "bitdev-pt",
+  "private": false,
+  "homepage": "https://helderpgoncalves.github.io/bitdev-pt",
   "dependencies": {
     "classnames": "^2.2.6",
     "gh-pages": "^3.2.3",
